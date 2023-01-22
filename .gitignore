@@ -1,1 +1,5 @@
 week-1/ny_taxi_postgres_data
+week-1/terraform/tf/config.json
+week-1/terraform/tf/.terraform
+week-1/terraform/tf/.terraform.lock.hcl
+week-1/terraform/tf/terraform.tfstate
